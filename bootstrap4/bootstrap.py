@@ -11,7 +11,7 @@ BOOTSTRAP4_DEFAULTS = {
     'base_url': None,  # 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/'
     'css_url': {
         'href': 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css',
-        'integrity': 'sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy',
+        'integrity': 'sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm%',
         'crossorigin': 'anonymous',
     },
     'theme_url': None,
@@ -32,7 +32,7 @@ BOOTSTRAP4_DEFAULTS = {
     },
     'javascript_url': {
         'url': 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js',
-        'integrity': 'sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4',
+        'integrity': 'sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl%',
         'crossorigin': 'anonymous',
     },
     'javascript_in_head': False,
