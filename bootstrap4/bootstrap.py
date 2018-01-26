@@ -8,9 +8,9 @@ from django.conf import settings
 # Default settings
 
 BOOTSTRAP4_DEFAULTS = {
-    'base_url': None,  # 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/'
+    'base_url': None,  # 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/'
     'css_url': {
-        'href': 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css',
+        'href': 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css',
         'integrity': 'sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy',
         'crossorigin': 'anonymous',
     },
@@ -31,7 +31,7 @@ BOOTSTRAP4_DEFAULTS = {
         'crossorigin': 'anonymous',
     },
     'javascript_url': {
-        'url': 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js',
+        'url': 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js',
         'integrity': 'sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4',
         'crossorigin': 'anonymous',
     },
